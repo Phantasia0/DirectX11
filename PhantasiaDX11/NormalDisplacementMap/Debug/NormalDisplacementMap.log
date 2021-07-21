@@ -1,0 +1,24 @@
+﻿  fxc compile for debug: C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\Basic.fx
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see Basic.cod
+  compilation succeeded; see C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\Basic.fxo
+  fxc compile for debug: C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\DisplacementMap.fx
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see DisplacementMap.cod
+  compilation succeeded; see C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\DisplacementMap.fxo
+  fxc compile for debug: C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\NormalMap.fx
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see NormalMap.cod
+  compilation succeeded; see C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\NormalMap.fxo
+  fxc compile for debug: C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\Sky.fx
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see Sky.cod
+  compilation succeeded; see C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\NormalDisplacementMap\FX\Sky.fxo

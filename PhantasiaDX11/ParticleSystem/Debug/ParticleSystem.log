@@ -1,0 +1,10 @@
+﻿  fxc compile for debug: C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\ParticleSystem\FX\Fire.fx
+C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\ParticleSystem\FX\Fire.fx(197,14): warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+  
+  Microsoft (R) Direct3D Shader Compiler 9.29.952.3111
+  Copyright (C) Microsoft Corporation 2002-2009. All rights reserved.
+  
+  compilation succeeded; see Fire.cod
+  compilation succeeded; see C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\ParticleSystem\FX\Fire.fxo
+  ParticleSystem.vcxproj -> C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\Debug\ParticleSystem.exe
+  ParticleSystem.vcxproj -> C:\Users\pc\Desktop\DirectX11\Study\PhantasiaDX11\Debug\ParticleSystem.pdb (Full PDB)
